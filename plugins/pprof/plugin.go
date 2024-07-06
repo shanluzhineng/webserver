@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	_ "github.com/abmpio/webserver/starter/pprof"
+	_ "github.com/shanluzhineng/webserver/starter/pprof"
 )
 
 func init() {

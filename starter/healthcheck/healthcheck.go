@@ -3,12 +3,12 @@ package healthcheck
 import (
 	"strings"
 
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/abmp/pkg/model"
-	"github.com/abmpio/abmp/pkg/utils/str"
-	"github.com/abmpio/app"
-	"github.com/abmpio/app/host"
-	webapp "github.com/abmpio/webserver/app"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/model"
+	"github.com/shanluzhineng/abmp/pkg/utils/str"
+	"github.com/shanluzhineng/app"
+	"github.com/shanluzhineng/app/host"
+	webapp "github.com/shanluzhineng/webserver/app"
 	"github.com/kataras/iris/v12"
 )
 

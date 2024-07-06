@@ -1,15 +1,13 @@
-module github.com/abmpio/webserver
+module github.com/shanluzhineng/webserver
 
-go 1.21
-
-toolchain go1.21.0
+go 1.20
 
 require (
-	github.com/abmpio/abmp v0.0.0-20230819060034-aa8d5ad8e394
-	github.com/abmpio/app v0.0.0-20231107113850-3cb7968b906e
-	github.com/abmpio/configurationx v0.0.0-20230713072959-39c660b4f462
 	github.com/iris-contrib/middleware/cors v0.0.0-20230817093337-c874b7c7eb8a
 	github.com/kataras/iris/v12 v12.2.4
+	github.com/shanluzhineng/abmp v0.0.1
+	github.com/shanluzhineng/app v0.0.2
+	github.com/shanluzhineng/configurationx v0.0.1
 )
 
 require (

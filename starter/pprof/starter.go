@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/app"
-	webapp "github.com/abmpio/webserver/app"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/app"
+	webapp "github.com/shanluzhineng/webserver/app"
 
 	"net/http/pprof"
 

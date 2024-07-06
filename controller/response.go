@@ -3,7 +3,7 @@ package controller
 import (
 	"net/http"
 
-	"github.com/abmpio/abmp/pkg/model"
+	"github.com/shanluzhineng/abmp/pkg/model"
 	"github.com/kataras/iris/v12"
 )
 

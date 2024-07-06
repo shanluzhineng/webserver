@@ -5,8 +5,8 @@ import (
 
 	"github.com/kataras/iris/v12/context"
 
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/abmp/pkg/model"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/model"
 )
 
 type errWrapperMiddleware struct {

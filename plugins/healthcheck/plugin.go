@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	_ "github.com/abmpio/webserver/starter/healthcheck"
+	_ "github.com/shanluzhineng/webserver/starter/healthcheck"
 )
 
 func init() {

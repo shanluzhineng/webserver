@@ -1,7 +1,7 @@
 package cors
 
 import (
-	"github.com/abmpio/configurationx/options/web"
+	"github.com/shanluzhineng/configurationx/options/web"
 	"github.com/iris-contrib/middleware/cors"
 	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/core/router"
